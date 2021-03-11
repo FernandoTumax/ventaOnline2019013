@@ -1,0 +1,23 @@
+{
+  "name": "ventaonline2019013",
+  "version": "1.0.0",
+  "description": "Venta online Examen Final Fernando Tumax 2019013",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josue Fernando Tumax Baquiax",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.18",
+    "morgan": "^1.10.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {}
+}
